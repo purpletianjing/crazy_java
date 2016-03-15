@@ -7,3 +7,4 @@ public class StaticInitialTest {
         System.out.println(StaticInitialTest.a);
     }
 }
+
